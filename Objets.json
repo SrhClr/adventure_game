@@ -1,0 +1,108 @@
+[
+    {
+      "nom": "clé",
+      "description": "Une petite clé en fer forgé. Elle semble ouvrir quelque chose d’important.",
+      "utilisable": true,
+      "combinaison": null
+    },
+    {
+      "nom": "tiroir",
+      "description": "Un tiroir en bois légèrement entrouvert. Peut-être qu’il cache quelque chose ?",
+      "utilisable": false,
+      "combinaison": null
+    },
+    {
+      "nom": "plume",
+      "description": "Une plume colorée tombée d’un chapeau… probablement pirate.",
+      "utilisable": false,
+      "combinaison": null
+    },
+    {
+      "nom": "piste de pas",
+      "description": "Des empreintes légères qui s’enfoncent vers le sud.",
+      "utilisable": false,
+      "combinaison": null
+    },
+    {
+      "nom": "poussière de fée",
+      "description": "Des grains d’or flottant dans l’air. Elle permet de voler.",
+      "utilisable": true,
+      "combinaison": null
+    },
+    {
+      "nom": "grappin",
+      "description": "Un grappin rouillé, parfait pour grimper sur un navire.",
+      "utilisable": true,
+      "combinaison": null
+    },
+    {
+      "nom": "coffre",
+      "description": "Un coffre verrouillé. Que contient-il ?",
+      "utilisable": false,
+      "combinaison": "clé"
+    },
+    {
+        "nom": "carte déchirée",
+        "description": "La moitié d’une carte couverte d’une écriture familière…",
+        "utilisable": false,
+        "combinaison": "fragment pirate"
+    },
+    {
+        "nom": "fragment pirate",
+        "description": "Un morceau de carte conservé précieusement par les pirates.",
+        "utilisable": false,
+        "combinaison": "carte déchirée"
+    },
+    {
+        "nom": "carte complète",
+        "description": "La carte restaurée révèle la lettre d’adieu de Wendy et un lieu de rendez-vous secret.",
+        "utilisable": true,
+        "combinaison": null
+    },
+    {
+        "nom": "jouet cassé",
+        "description": "Un vieux jouet griffé, avec une oreille manquante et un bras qui pend. Il semble avoir été déchiré brutalement.",
+        "utilisable": false
+      },
+      {
+        "nom": "table renversée",
+        "description": "La table est retournée, comme si quelqu’un l’avait poussée en fuyant ou dans la panique.",
+        "utilisable": false
+      },
+      {
+        "nom": "rideau déchiré",
+        "description": "Un rideau pend, déchiré sur toute sa longueur. Il semble avoir été arraché à la hâte.",
+        "utilisable": false
+      },
+      {
+        "nom": "couverture",
+        "description": "Une couverture froissée et poussiéreuse. Quelque chose pourrait bien se cacher dessous...",
+        "utilisable": false
+      },
+      {
+        "nom": "coffre entrouvert",
+        "description": "Un petit coffre en bois entrouvert. Il contient quelques affaires sans importance, mais rien d’utile.",
+        "utilisable": false
+      },
+      {
+        "nom": "cigare",
+        "description": "Un cigare écrasé. L’odeur est forte. Ce n’est clairement pas un jouet d’enfant.",
+        "utilisable": false
+      },
+      {
+        "nom": "bouteille en verre",
+        "description": "Une bouteille d’alcool brisée, tachée d’un liquide rouge sombre. Des morceaux de verre sont éparpillés autour.",
+        "utilisable": false
+      },
+      {
+        "nom": "trace de sang",
+        "description": "Une fine traînée rougeâtre part du centre de la pièce. On dirait qu’un enfant blessé s’est éloigné en boitant.",
+        "utilisable": false
+      },
+      {
+        "nom": "hamacs",
+        "description": "Des hamacs sont encore accrochés entre les branches du repaire. Ils n’ont pas été touchés. Peter ne trouve rien dessus.",
+        "utilisable": false
+      }      
+  ]
+  

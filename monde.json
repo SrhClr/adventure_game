@@ -1,0 +1,72 @@
+[
+  {
+    "nom": "Maison des Darling",
+    "description": "La chambre des enfants à Londres. La nuit est tombée, tout semble calme… jusqu'à l'arrivée de Peter Pan.",
+    "objets": ["tiroir", "clé"],
+    "chemins": {
+      "sud": "Forêt de Neverland"
+    }
+  },
+  {
+    "nom": "Forêt de Neverland",
+    "description": "Une forêt dense et mystérieuse où résonnent des chants d’oiseaux et des murmures d’ombres.",
+    "objets": [],
+    "chemins": {
+      "nord": "Maison des Darling",
+      "est": "Repaire des Enfants Perdus",
+      "sud": "Rocher du Crâne"
+    }
+  },
+  {
+    "nom": "Repaire des Enfants Perdus",
+    "description": "Un grand arbre creux abrite le camp secret des enfants. Mais aujourd’hui, il est déserté…",
+    "objets": [],
+    "chemins": {
+      "ouest": "Forêt de Neverland",
+      "sud": "Île aux Fées"
+    }
+  },
+  {
+    "nom": "Rocher du Crâne",
+    "description": "Un rocher en forme de crâne où les pirates aiment tendre des pièges. Un lieu inquiétant et stratégique.",
+    "objets": ["cigare", "bouteille"],
+    "chemins": {
+      "nord": "Forêt de Neverland",
+      "est": "Lagune des Sirènes"
+    }
+  },
+  {
+    "nom": "Lagune des Sirènes",
+    "description": "Un coin magique où chantent les sirènes. Mais gare à leurs voix envoûtantes.",
+    "objets": [],
+    "chemins": {
+      "ouest": "Rocher du Crâne",
+      "sud": "Le Jolly Roger"
+    }
+  },
+  {
+    "nom": "Île aux Fées",
+    "description": "Un îlot lumineux où virevoltent des fées, veillant jalousement sur leur poussière magique.",
+    "objets": ["poussière de fée"],
+    "chemins": {
+      "nord": "Repaire des Enfants Perdus",
+      "est": "La Plage"
+    }
+  },
+  {
+    "nom": "Le Jolly Roger",
+    "description": "Le redoutable navire du capitaine Crochet. On y entend des rires sinistres et des sabres s’entrechoquer.",
+    "objets": ["grappin", "coffre"],
+    "chemins": {
+      "nord": "Lagune des Sirènes"
+    }
+  },
+  {
+    "nom": "La Plage",
+    "description": "Un rivage tranquille baigné par la mer. L’endroit idéal pour s’évader… ou être capturé.",
+    "objets": [],
+    "chemins": {
+      "ouest": "Île aux Fées"
+    }
+  }
+]
