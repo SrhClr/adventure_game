@@ -61,8 +61,10 @@ Compiler et lancer le jeu
 
 Depuis un terminal, naviguer dans le répertoire /adventure_game 
 
-Puis Compiler avec 
+Puis Compiler avec :
+
 swift build 
 
-Enfin lancer le jeu avec
+Enfin lancer le jeu avec :
+
 swift run 
