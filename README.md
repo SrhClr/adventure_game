@@ -54,6 +54,7 @@ Cloner le projet adventure_game
 --------------
 
 Depuis un terminal lancer la commande git 
+
 git clone https://github.com/SrhClr/adventure_game.git
 
 Compiler et lancer le jeu
